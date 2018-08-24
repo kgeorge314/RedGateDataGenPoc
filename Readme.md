@@ -46,6 +46,6 @@ This will or should have setup a Sql Instance named `sqldock`
 
 2. Publish the Project (pretty straight forward)
 
-3. ![Publish](.\assets\00_publish.png "Publish")
+3. ![Publish](.\assets\00_publish.png)
 
 4. Hopefully everything goes well you are now setup.
